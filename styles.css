@@ -1,0 +1,52 @@
+.id{
+    background-color: rgb(158, 158, 226);
+    padding: 10px;
+    font-size:xx-large;
+    width: 50%;
+    margin-left: 25%;
+}
+#email{
+margin-left: 76px;
+width: 50%;
+height: 2rem;
+}
+#text{
+    margin-left: 3px;
+    width: 50%;
+    height: 2rem;
+}
+#number{
+    margin-left: 20px;
+    width: 50%;
+    height: 2rem;
+}
+#text1{
+    margin-left: 14px;
+    width: 50%;
+    height: 2rem;
+}
+.head{
+    text-align: center;
+    background-color: yellow;
+    width: 30%;
+    margin-left: 35%;
+    font-family: sans-serif;
+}
+.hello{
+    align-items: center;
+    height: 30vh;
+   
+}
+#btn{
+  margin-left: 40%;
+  font-size: 70%;
+
+}
+.main{
+    background-color: rgba(88, 83, 236, 0.901);
+    width: 50%;
+    margin-left: 25%;
+    height: 45vh;
+    border-radius: 40px;
+
+}
